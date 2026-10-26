@@ -19,8 +19,8 @@ Final year CS student passionate about building complete end-to-end web applicat
 ### 📂 Featured Projects
 
 - **[krishify](https://github.com/shivampatel0011/krishify)** — Agriculture Tech Web Application
-- **[book-bazzar](https://github.com/shivampatel0011/book-bazzar)** — Online Bookstore Platform *(agar repo naam alag hai toh correct kar lena)*
-- **[amantran](https://github.com/shivampatel0011/amantran)** — Event/Invitation Platform *(agar repo naam alag hai toh correct kar lena)*
+- **[book-bazzar](https://github.com/shivampatel0011/book-bazzar)** — Online Bookstore Platform **
+- **[amantran](https://github.com/shivampatel0011/amantran)** — Event/Invitation Platform **
 
 ---
 
